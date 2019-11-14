@@ -4,7 +4,7 @@ Python script to get stats for docker containers in a PRTG compatible sensor for
 
 # Installation: 
 
-Run the below two command to install package requirements:
+Run the below two commands to install package requirements:
 
 `sudo -i`
 
